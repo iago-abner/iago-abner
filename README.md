@@ -1,4 +1,4 @@
-## Hi there, im iago abner 👋
+## :comet: Hi there, im iago abner :man_astronaut: 
 
 <div >
   <a href="https://github.com/iago-abner">
@@ -8,7 +8,7 @@
 </div>
 
 <div style="display: inline_block">
-  <h2>Languages and Tools</h2>
+  <h2>:milky_way: Languages and Tools </h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
