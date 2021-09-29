@@ -3,7 +3,7 @@
 <div >
   <a href="https://github.com/iago-abner">
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-abner&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img align="center" alt="gif"  height="175em" src="https://cdn.discordapp.com/attachments/890411389997432915/890411661448605716/a7fca00bd7513302bed0dd2945777b4f.gif"><br>
+    <img align="center" alt="gif"  height="175em" src="https://cdn.discordapp.com/attachments/890411389997432915/892652005804355584/computer-illustration.png"><br>
   <br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago-abner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
