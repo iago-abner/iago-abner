@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Iago Abner   
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, i'm Iago Abner   
 
 <div >
   <a href="https://github.com/iago-abner">
