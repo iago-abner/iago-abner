@@ -25,6 +25,6 @@
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" >
 </div>
 
-#### 💬 Find me too
+#### 💬 Find me on
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-abner/)](https://www.linkedin.com/in/iago-abner/) 
 [![Gmail Badge](https://img.shields.io/badge/-iagoabner.dev@gmail.com-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:iagoabner.dev@gmail.com)](mailto:iagoabner.dev@gmail.com)
