@@ -6,11 +6,10 @@
 </div>
 
 
-
 #### 💬 Find me on
+[![Static Badge](https://img.shields.io/badge/iago%20abner-8A2BE2?logo=1001tracklists&logoColor=%23FFF&labelColor=%2366459B&color=%2366459B)](https://iago-abner.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-abner/)](https://www.linkedin.com/in/iago-abner/) 
 [![Gmail Badge](https://img.shields.io/badge/-iagoabner.dev@gmail.com-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:iagoabner.dev@gmail.com)](mailto:iagoabner.dev@gmail.com)
-[![Static Badge](https://img.shields.io/badge/iago%20abner-8A2BE2?logo=1001tracklists&logoColor=%23FFF&labelColor=%2366459B&color=%2366459B)](https://iago-abner.vercel.app/)
 
   #### :milky_way: Languages and Tools 
 <div style="display: inline_block">  
